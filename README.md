@@ -1,11 +1,14 @@
-# Angular Coding Standard() {
+# Angular Coding Standard
 
 *A work in progress coding standard to be followed for writing Angular code*
 
 ## Index
 
 1. [Controllers](#controllers)
+1. [Services](#services)
 1. [Directives](#directives)
+1. [Filters](#filters)
+1. [Templates Partials](#templates-partials)
 
 
 ## Controllers
@@ -123,7 +126,7 @@
 **[back to top](#index)**
 
 
-## Templates/Partials
+## Templates Partials
   
   - Name your templates with lowerCamelCase.
   - Name ui-states partials based on their parent-child relationship, e.g:
